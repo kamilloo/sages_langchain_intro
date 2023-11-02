@@ -51,3 +51,12 @@ Dla osób używających PyCharm: instrukcja jak znaleźć opcję zmiany interpre
 
 ![Done](images/06_done.png)
 
+OPENAI_API_KEY
+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
+
+
+Prompt Engineering
+
+1. Definiowanie jawnego formatu oczekiwanej odpowiedzi, np. w predefiniowanym formacie json
+2. Przykłady w identycznym formacie
+3. Podajemy przykłady dla poprawnych odpowiedzi i negatywnych odpowiedzi
